@@ -6,7 +6,10 @@
 
         let fillEffectList = document.querySelectorAll('.btn-circle-fill');
 
+
+        
         fillEffectList.forEach(function(el) {
+
             let curBtnFiller = el.querySelector('.btn-circle-fill__filler');
 
             el.addEventListener('mouseenter', function(e) {
@@ -26,6 +29,7 @@
                 curBtnFiller.style.left = x + 'px';
                 curBtnFiller.style.top = y + 'px';
             });
+
         });
 
 
