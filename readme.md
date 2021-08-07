@@ -1,3 +1,3 @@
 ### Smooth filling of the button around the circle 
 ### Плавное заполнение кнопки по кругу 
-### v2.0 15.07.2021
+### v2.1 07.08.2021
